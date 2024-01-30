@@ -16,4 +16,3 @@ sudo curl https://gist.githubusercontent.com/AdelHashem/a700168b214a66cb58e64164
 # sudo cp localhost.key /etc/ssl/private/localhost.key
 sudo systemctl stop sshd
 sudo systemctl reload nginx
-x1.00
