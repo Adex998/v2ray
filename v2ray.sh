@@ -1,4 +1,3 @@
-sudo apt install curl unzip -y
 curl -O https://raw.githubusercontent.com/v2fly/fhs-install-v2ray/master/install-release.sh
 sudo bash install-release.sh
 sudo systemctl restart v2ray
